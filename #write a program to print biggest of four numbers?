@@ -1,0 +1,13 @@
+print('write a program to print biggest of four numbers\n')
+x=int(input('Enter the first value:'))
+y=int(input('Enter the secound value:'))
+z=int(input('Enter the third value:'))
+p=int(input('Enter the fourth value:'))
+if x>=yandx>=zandx>=p:
+print('The first number is big:',x)
+elif y>=zandy>=pandy>=x:
+print('The second number is big:',y)
+elif z>=xandz>=yandz>=p:
+print('The third number is big:',z)
+else:
+print('The fourth number is big:',p)
