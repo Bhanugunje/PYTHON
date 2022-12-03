@@ -1,0 +1,9 @@
+def biggestvalue(a,b):
+    if a>b:
+        print('A is big')
+    else:
+        print('B is big')
+print('***Model 1***\n')
+a=int(input('Enter A value:'))
+b=int(input('Enter B VALUE:'))
+biggestvalue(a,b)
